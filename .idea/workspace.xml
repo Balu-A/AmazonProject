@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a270742d-d120-428a-8603-14ea35a0a77c" name="Changes" comment="">
+    <list default="true" id="a270742d-d120-428a-8603-14ea35a0a77c" name="Changes" comment="Updated notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prompt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/prompt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/coupons.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/diff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/instructions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/manmachine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/newfile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/newgit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/remotecreate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/status.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/terminal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prompt.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +39,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,11 +59,32 @@
       <option name="presentableId" value="Default" />
       <updated>1708789374873</updated>
       <workItem from="1708789376808" duration="16000" />
-      <workItem from="1708789678198" duration="9320000" />
+      <workItem from="1708789678198" duration="13978000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated notebook">
+      <option name="closed" value="true" />
+      <created>1708889044081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708889044082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated notebook">
+      <option name="closed" value="true" />
+      <created>1708889166543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708889166543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated notebook" />
   </component>
 </project>
