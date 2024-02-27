@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a270742d-d120-428a-8603-14ea35a0a77c" name="Changes" comment="Updated notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <workItem from="1708789376808" duration="16000" />
       <workItem from="1708789678198" duration="35950000" />
       <workItem from="1708961967472" duration="2004000" />
-      <workItem from="1708964895652" duration="29941000" />
+      <workItem from="1708964895652" duration="30824000" />
     </task>
     <task id="LOCAL-00001" summary="Updated notebook">
       <option name="closed" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708997447242</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated notebook">
+      <option name="closed" value="true" />
+      <created>1708998901531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708998901532</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
