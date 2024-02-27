@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a270742d-d120-428a-8603-14ea35a0a77c" name="Changes" comment="Updated notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonCouponApplication.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
       <workItem from="1708789678198" duration="35950000" />
       <workItem from="1708961967472" duration="2004000" />
       <workItem from="1708964895652" duration="30824000" />
+      <workItem from="1709045428485" duration="9715000" />
     </task>
     <task id="LOCAL-00001" summary="Updated notebook">
       <option name="closed" value="true" />
