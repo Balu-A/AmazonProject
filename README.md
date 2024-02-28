@@ -1,4 +1,4 @@
-# <center> <font color="blue">Will a Customer Accept the Coupon?</font></center>
+<center> <font color="blue">Will a Customer Accept the Coupon?</font></center>
 This Python application using Jupyter Notebook explores a dataset containing information of ~13,000 people in order to determine which factors make them accept a driving coupon.
 
 [Jupiter Notebook used](https://github.com/Balu-A/AmazonProject/blob/master/AmazonCouponApplication.ipynb)
