@@ -1,16 +1,3 @@
-<center> <font color="blue">Will a Customer Accept the Coupon?</font></center>
-This Python application using Jupyter Notebook explores a dataset containing information of ~13,000 people in order to determine which factors make them accept a driving coupon.
-
-[Jupiter Notebook used](https://github.com/Balu-A/AmazonProject/blob/master/AmazonCouponApplication.ipynb)
-
-The current CRISP-DM Process Model for Data Mining (see Figure 1) was followed.
-
-<p align="center">
-  <img src="images/Figure1_CRISP_DM_Model.jpeg" width="300px" height="300px">
-  <h4 align="center">Figure 1</h4>
-</p>
-
-
 <h1 style="text-align: center; color: blue;">Will a Customer Accept the Coupon?</h1>
 <p>This Python application using Jupyter Notebook explores a dataset containing information of ~13,000 people in order to determine which factors make them accept a driving coupon.</p>
 <p><a href="https://github.com/Balu-A/AmazonProject/blob/master/AmazonCouponApplication.ipynb" target="_blank">Jupiter Notebook used</a></p>
@@ -52,7 +39,7 @@ After cleaning up null values and dupes
 <h4 align="center"> Figure 4</h4>
 </p>
 
-<h2>Analysis and Visualization</h2>
+<h2>Analysis and Visualization of Bar Data</h2>
 <h3>Observation 1:</h3> Among the accepted coupons, CoffeeHouse coupons are widely accepted, followed by coupons for cheap restaurants 
 <p align="center">
 <img src="images/CouponViz.png" width="680px" height="480px">
@@ -85,14 +72,40 @@ who work in farming/forestry/fishing may have impeding factors such a work sched
 </p>
 
 
-<h3>Observation 6:</h3> Bar-goers who visited a bar more than once a month, who didn't travel with a kid, and who were not widowed are more likely to accept a bar coupon than those whose income <$50K. This is probably 
-because low-income people prefer to go to a restaurant instead to a bar.
-<p align="center">
-<img src="images/Bar_Various.jpg" width="957" height="453px">
-<h4 align="center"> Figure 9</h4>
-</p>
-
-
 <h3>Overall Hypothesis:</h3> 
 <span style="color: red;">If a person is between 25 and 30 years of age and they love going to a bar more than 3 times a month, then there is high likelihood of that person accepting a bar coupon. </span>
+
+<h2>Analysis and Visualization of Cheap Restaurant Data</h2>
+
+<h3>Observation 1:</h3> Of all the distributed cheap restaurant coupons, Unemployed and Student groups are the biggest chunk who accepted the coupon. Those who worked in Farming, Fishing, and Forestry are again the only 
+who didn't accept restaurant coupons. This is possibly due to the nature of their work and proximity to a restaurant.
+<p align="center">
+<img src="images/Coupons_Professions.jpg" width="596px" height="730px">
+<h4 align="center"> Figure 8</h4>
+</p>
+ 
+<h3>Observation 2:</h3> Among those who accepted the coupon, those who are either single or married to a partner are the biggest recipients of the coupon. Divorcees are least likely to accept a coupon to a cheap 
+restaurant. It is possible that Divorcess may accept coupons to a bar.
+<p align="center">
+<img src="images/Unemployed_Marital_MoreThan4.png" width="1235px" height="600px">
+<h4 align="center"> Figure 8</h4>
+</p>
+
+<h3>Observation 3:</h3> Also, the unemployed and single lot, when they travel with friend(s) are highly likely to accept a coupon to a cheap restaurant. These are also the people who visit a cheap restaurant more than
+4 times a month
+<p align="center">/
+<img src="images/Unemployed_Unmarried_Various.jpg" width="1267" height="453px">
+<h4 align="center"> Figure 8</h4>
+</p>
+
+<h3>Observation 4:</h3> What is going on with folks in Farming, Fishing, and Forestry? I wanted to see if this lot accepts any coupon at all and it seems that they do accept carry out/take away coupons. This explains
+because of their nature of work and work schedule. Also, their income is under $50K, so presumption is that this lot is frugal.
+<p align="center">
+<img src="images/FFF_Coupons.jpg" width="737px" height="594px">
+<h4 align="center"> Figure 8</h4>
+</p>
+
+<h3>Overall Hypothesis:</h3> 
+<span style="color: red;">If a person is unemployed and is single or married and they love going to a restaurant more than 3 times a month, then there is high likelihood of that person accepting a coupon to a cheap 
+restaurant. </span>
 
