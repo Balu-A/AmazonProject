@@ -42,6 +42,6 @@ all the columns now have same number of rows with no null values.
 </br> 
 After cleaning up null values and dupes
 <p align="center">
-<img src="images/non-nulls.png" width="1278px" height="245px">
+<img src="images/Bar_Various.jpg" width="1278px" height="245px">
 <h4 align="center"> Figure 4</h4>
 </p>
