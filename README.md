@@ -1,3 +1,16 @@
+# <center> <font color="blue">Will a Customer Accept the Coupon?</font></center>
+This Python application using Jupyter Notebook explores a dataset containing information of ~13,000 people in order to determine which factors make them accept a driving coupon.
+
+[Jupiter Notebook used](https://github.com/Balu-A/AmazonProject/blob/master/AmazonCouponApplication.ipynb)
+
+The current CRISP-DM Process Model for Data Mining (see Figure 1) was followed.
+
+<p align="center">
+  <img src="images/Figure1_CRISP_DM_Model.jpeg" width="300px" height="300px">
+  <h4 align="center">Figure 1</h4>
+</p>
+
+
 <h1 style="text-align: center; color: blue;">Will a Customer Accept the Coupon?</h1>
 <p>This Python application using Jupyter Notebook explores a dataset containing information of ~13,000 people in order to determine which factors make them accept a driving coupon.</p>
 <p><a href="https://github.com/Balu-A/AmazonProject/blob/master/AmazonCouponApplication.ipynb" target="_blank">Jupiter Notebook used</a></p>
